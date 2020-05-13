@@ -6,5 +6,5 @@ I am a junior optical engineering major at the University of Rochester. My resea
 ### Skills
 Experience in Python/Matlab/C# programming, Git, Unity, HoloLens APIs, CAD Creo Parametric.
 
-### Course
-**Geometrical Optics, Wave Optics, Linear Algebra, Math Methods for Optics**
+### Courses
+Geometrical Optics, Wave Optics, Linear Algebra, Math Methods for Optics
