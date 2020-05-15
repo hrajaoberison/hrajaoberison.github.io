@@ -8,3 +8,6 @@ Experience in Python/Matlab/C# programming, Git, Unity, HoloLens APIs, CAD Creo 
 
 ### Courses
 Geometrical Optics, Wave Optics, Math Methods for Optics, Linear Algebra & Differential Equations, Multivariable Calculus. 
+
+
+My blog will be posted here soon!
